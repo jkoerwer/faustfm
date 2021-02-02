@@ -9,4 +9,6 @@ Select an IDE of your choice and create the project, make sure to include the ri
 In your IDE just select the standalone or the VST and press build and compile.
 Enjoy the sound.
 
+Alternatively a 64-bit VST version is available via the FaustFM.dll. Simply download the file and add it to the vst folder of your DAW.
+
 PS: External midi input is not working, when using the standalone. 
