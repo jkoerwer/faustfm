@@ -11,4 +11,6 @@ Enjoy the sound.
 
 Alternatively a 64-bit VST version is available via the FaustFM.dll. Simply download the file and add it to the vst folder of your DAW.
 
+Finally, you can upload the Faust_code.txt to the FAUST ide at: https://faustide.grame.fr/ and play it from your browser or build it from there.
+
 PS: External midi input is not working, when using the standalone. 
